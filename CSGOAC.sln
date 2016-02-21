@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSGOAC Server", "CSGOAC Server\CSGOAC Server.csproj", "{98E69F87-EAB1-4A5E-B285-4CEC88A52B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSGOAC Client", "CSGOAC Client\CSGOAC Client.csproj", "{07ED6A17-4F18-4717-A95D-4D63421147C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KACAPI", "KACAPI\KACAPI.csproj", "{A64D00C4-D652-4AA9-A4B5-8653BC6B8C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E69F87-EAB1-4A5E-B285-4CEC88A52B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E69F87-EAB1-4A5E-B285-4CEC88A52B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E69F87-EAB1-4A5E-B285-4CEC88A52B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E69F87-EAB1-4A5E-B285-4CEC88A52B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07ED6A17-4F18-4717-A95D-4D63421147C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07ED6A17-4F18-4717-A95D-4D63421147C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07ED6A17-4F18-4717-A95D-4D63421147C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07ED6A17-4F18-4717-A95D-4D63421147C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64D00C4-D652-4AA9-A4B5-8653BC6B8C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64D00C4-D652-4AA9-A4B5-8653BC6B8C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64D00C4-D652-4AA9-A4B5-8653BC6B8C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64D00C4-D652-4AA9-A4B5-8653BC6B8C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

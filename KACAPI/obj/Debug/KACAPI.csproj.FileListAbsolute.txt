@@ -1,0 +1,5 @@
+C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KACAPI\bin\Debug\KACAPI.dll
+C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KACAPI\bin\Debug\KACAPI.pdb
+C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KACAPI\obj\Debug\KACAPI.csprojResolveAssemblyReference.cache
+C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KACAPI\obj\Debug\KACAPI.dll
+C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KACAPI\obj\Debug\KACAPI.pdb
