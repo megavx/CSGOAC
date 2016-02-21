@@ -1,0 +1,5 @@
+C:\Users\KONA\Documents\GitHub\CSGOAC\KACAPI\bin\x86\Debug\KACAPI.dll
+C:\Users\KONA\Documents\GitHub\CSGOAC\KACAPI\bin\x86\Debug\KACAPI.pdb
+C:\Users\KONA\Documents\GitHub\CSGOAC\KACAPI\obj\x86\Debug\KACAPI.csprojResolveAssemblyReference.cache
+C:\Users\KONA\Documents\GitHub\CSGOAC\KACAPI\obj\x86\Debug\KACAPI.dll
+C:\Users\KONA\Documents\GitHub\CSGOAC\KACAPI\obj\x86\Debug\KACAPI.pdb
