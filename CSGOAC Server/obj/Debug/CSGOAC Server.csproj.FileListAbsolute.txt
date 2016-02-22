@@ -1,8 +1,8 @@
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\bin\Debug\CSGOAC Server.exe
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\bin\Debug\CSGOAC Server.pdb
-C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC Server.csprojResolveAssemblyReference.cache
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC_Server.Properties.Resources.resources
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC Server.csproj.GenerateResource.Cache
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC Server.exe
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC Server.pdb
-C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC_Server.Form1.resources
+C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC_Server.MainForm.resources
+C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\obj\Debug\CSGOAC Server.csprojResolveAssemblyReference.cache

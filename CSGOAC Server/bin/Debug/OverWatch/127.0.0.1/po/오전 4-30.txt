@@ -1,0 +1,224 @@
+ProcessID       ProcessName                    ProcessPath                                       
+=============== ============================== ==================================================
+
+1404            wininit.exe                    C:\Windows\system32\wininit.exe                   
+
+1736            WtuSystemSupport.exe           C:\Program Files (x86)\AVG Web TuneUp\WtuSystemSupport.exe
+
+1796            nvSCPAPISvr.exe                C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe
+
+1840            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+1936            svchost.exe                    C:\Windows\System32\svchost.exe                   
+
+1980            svchost.exe                    C:\Windows\System32\svchost.exe                   
+
+2028            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+1076            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+2120            SbieSvc.exe                    C:\Program Files\Sandboxie\SbieSvc.exe            
+
+2132            nvxdsync.exe                   C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
+
+2444            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+2556            AvastSvc.exe                   C:\Program Files\AVAST Software\Avast\AvastSvc.exe
+
+2788            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+2920            armsvc.exe                     C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+
+2956            AdobeUpdateService.exe         C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe
+
+3016            AYRTSrv.aye                    C:\Program Files\ESTsoft\ALYac\AYRTSrv.aye        
+
+3048            AYUpdSrv.aye                   C:\Program Files\ESTsoft\ALYac\AYUpdSrv.aye       
+
+2372            AnySign4PCLauncher.exe         C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PCLauncher.exe
+
+3372            avgsvca.exe                    C:\Program Files (x86)\AVG\Framework\Common\avgsvca.exe
+
+3524            avgwdsvcx.exe                  C:\Program Files (x86)\AVG\Av\avgwdsvcx.exe       
+
+3588            BlueSoleilCS.exe               C:\Program Files (x86)\IVT Corporation\BlueSoleil\BlueSoleilCS.exe
+
+3660            BsMobileCS.exe                 C:\Program Files (x86)\IVT Corporation\BlueSoleil\BsMobileCS.exe
+
+3764            cPhoneSDKCS.exe                C:\Program Files (x86)\IVT Corporation\BlueSoleil\cPhoneSDKCS.exe
+
+3828            GfExperienceService.exe        C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
+
+3912            GingerUpdateService.exe        C:\Program Files (x86)\Ginger\GingerUpdateService\GingerUpdateService.exe
+
+3988            NaverAdminAPISvc.exe           C:\Program Files (x86)\Naver\NaverCommon\NaverAdminAPISvc.exe
+
+4052            NaverAdminAPISvc.exe           C:\Program Files\Naver\NaverCommon\NaverAdminAPISvc.exe
+
+4308            NvNetworkService.exe           C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe
+
+4336            NvStreamService.exe            C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamService.exe
+
+4420            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+4460            TeamViewer_Service.exe         C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
+
+4548            vmnat.exe                      C:\Windows\SysWOW64\vmnat.exe                     
+
+4588            ToolbarUpdater.exe             C:\Program Files (x86)\Common Files\AVG Secure Search\vToolbarUpdater\40.2.6\ToolbarUpdater.exe
+
+4644            wpmsvc.exe                     C:\Program Files (x86)\Wizvera\Common\wpmsvc\wpmsvc.exe
+
+4652            loggingserver.exe              C:\Program Files (x86)\Common Files\AVG Secure Search\vToolbarUpdater\40.2.6\loggingserver.exe
+
+4728            WmiPrvSE.exe                   C:\Windows\system32\wbem\wmiprvse.exe             
+
+4848            vmware-authd.exe               D:\VM\vmware-authd.exe                            
+
+4912            vmnetdhcp.exe                  C:\Windows\SysWOW64\vmnetdhcp.exe                 
+
+4932            vmware-usbarbitrator64.exe     C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+
+632             BsHelpCS.exe                   C:\Program Files (x86)\IVT Corporation\BlueSoleil\BsHelpCS.exe
+
+688             AvastVBoxSVC.exe               C:\Program Files\AVAST Software\Avast\ng\vbox\AvastVBoxSVC.exe
+
+876             svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+620             NvStreamNetworkService.exe     C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamNetworkService.exe
+
+2152            svchost.exe                    C:\Windows\system32\svchost.exe                   
+
+2680            AnySign4PC.exe                 C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PC.exe
+
+4280            dwm.exe                        C:\Windows\system32\Dwm.exe                       
+
+1244            explorer.exe                   C:\Windows\Explorer.EXE                           
+
+5320            veraport.exe                   C:\program files (x86)\wizvera\veraport20\veraport.exe
+
+5364            keysharpnxbiz.exe              C:\program files (x86)\keysharpnxbiz\keysharpnxbiz.exe
+
+5572            NvBackend.exe                  C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe
+
+5596            RAVCpl64.exe                   C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe   
+
+5816            AYAgent.aye                    C:\Program Files\ESTsoft\ALYac\AYAgent.aye        
+
+5840            Skype.exe                      C:\Program Files (x86)\Skype\Phone\Skype.exe      
+
+5860            KakaoTalk.exe                  C:\Program Files (x86)\Kakao\KakaoTalk\KakaoTalk.exe
+
+5904            SbieCtrl.exe                   C:\Program Files\Sandboxie\SbieCtrl.exe           
+
+5912            sidebar.exe                    C:\Program Files\Windows Sidebar\sidebar.exe      
+
+2580            NaverAgent.exe                 C:\Program Files (x86)\Naver\NaverAgent\NaverAgent.exe
+
+6660            nvtray.exe                     C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+
+6928            AvastUI.exe                    C:\Program Files\AVAST Software\Avast\AvastUI.exe 
+
+6972            avguix.exe                     C:\Program Files (x86)\AVG\Framework\Common\avguix.exe
+
+7028            avgui.exe                      C:\Program Files (x86)\AVG\Av\avgui.exe           
+
+7040            vmware-tray.exe                D:\VM\vmware-tray.exe                             
+
+7100            vprot.exe                      C:\Program Files (x86)\AVG Web TuneUp\vprot.exe   
+
+2004            AdobeIPCBroker.exe             C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\AdobeIPCBroker.exe
+
+8088            NvStreamUserAgent.exe          C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamUserAgent.exe
+
+8140            Adobe Desktop Service.exe      C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe
+
+9164            CoreSync.exe                   C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CoreSync\CoreSync.exe
+
+9176            CCXProcess.exe                 C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CCXProcess\CCXProcess.exe
+
+9192            node.exe                       C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CCXProcess\libs\node.exe
+
+8432            SearchIndexer.exe              C:\Windows\system32\SearchIndexer.exe             
+
+5712            wmpnetwk.exe                   C:\Program Files\Windows Media Player\wmpnetwk.exe
+
+10028           svchost.exe                    C:\Windows\System32\svchost.exe                   
+
+11204           AGSService.exe                 C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe
+
+5624            ctfmon.exe                     C:\Windows\SysWOW64\ctfmon.exe                    
+
+3464            HPSupportSolutionsFrameworkService.exe C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\HPSupportSolutionsFrameworkService.exe
+
+9104            VsHub.exe                      C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\vshub.exe
+
+7644            Microsoft.VsHub.Server.HttpHost.exe C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHost.exe
+
+11492           BtTray.exe                     C:\Program Files (x86)\IVT Corporation\BlueSoleil\BtTray.exe
+
+12276           Microsoft.VsHub.Server.HttpHostx64.exe C:\Program Files (x86)\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHostx64.exe
+
+15436           StandardCollector.Service.exe  D:\VS\Team Tools\DiagnosticsHub\Collector\StandardCollector.Service.exe
+
+5932            Steam.exe                      C:\Program Files (x86)\Steam\Steam.exe            
+
+15456           steamwebhelper.exe             C:\Program Files (x86)\Steam\bin\steamwebhelper.exe
+
+6812            SteamService.exe               C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+
+14120           steamwebhelper.exe             C:\Program Files (x86)\Steam\bin\steamwebhelper.exe
+
+16356           steamwebhelper.exe             C:\Program Files (x86)\Steam\bin\steamwebhelper.exe
+
+12260           NateOnMain.exe                 C:\Program Files (x86)\SK Communications\NATEON\BIN\NATEONMain.exe
+
+15548           GitHub.exe                     C:\Users\KONA\AppData\Local\Apps\2.0\0A45VY5L.L6Q\4RV8JCXW.OZZ\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894\GitHub.exe
+
+7600            CefSharp.BrowserSubprocess.exe C:\Users\KONA\AppData\Local\Apps\2.0\0A45VY5L.L6Q\4RV8JCXW.OZZ\gith..tion_317444273a93ac29_0003.0000_20a3dfa4ba8ba894\CefSharp.BrowserSubprocess.exe
+
+3452            ssh-agent.exe                  C:\Users\KONA\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin\ssh-agent.exe
+
+7264            devenv.exe                     D:\VS\Common7\IDE\devenv.exe                      
+
+15576           devenv.exe                     D:\VS\Common7\IDE\devenv.exe                      
+
+14908           KAC_Server.vshost.exe          C:\Users\KONA\Documents\Visual Studio 2015\Projects\12Dc0JWotxaLTCxZPKO82A\KAC SERVER\bin\Debug\KAC_Server.vshost.exe
+
+9636            msvsmon.exe                    D:\VS\Common7\IDE\Remote Debugger\x64\msvsmon.exe 
+
+5812            MSBuild.exe                    C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+
+3416            MSBuildTaskHost.exe            C:\Program Files (x86)\MSBuild\14.0\bin\MSBuildTaskHost.exe
+
+6080            nvcplui.exe                    C:\Program Files\NVIDIA Corporation\Control Panel Client\nvcplui.exe
+
+11044           VBCSCompiler.exe               C:\Program Files (x86)\MSBuild\14.0\bin\VBCSCompiler.exe
+
+12928           notepad.exe                    C:\Windows\system32\notepad.exe                   
+
+11504           TweetDeck.exe                  C:\Program Files (x86)\Twitter\TweetDeck\TweetDeck.exe
+
+1856            TweetDeck.exe                  C:\Program Files (x86)\Twitter\TweetDeck\TweetDeck.exe
+
+3040            filezilla.exe                  C:\Program Files\FileZilla FTP Client\filezilla.exe
+
+7596            TweetDeck.exe                  C:\Program Files (x86)\Twitter\TweetDeck\TweetDeck.exe
+
+5884            SearchProtocolHost.exe         C:\Windows\system32\SearchProtocolHost.exe        
+
+9400            MSBuild.exe                    C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+
+13836           MSBuildTaskHost.exe            C:\Program Files (x86)\MSBuild\14.0\bin\MSBuildTaskHost.exe
+
+15032           firefox.exe                    C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+
+9308            SearchFilterHost.exe           C:\Windows\system32\SearchFilterHost.exe          
+
+3036            CSGOAC Client.vshost.exe       C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\bin\x86\Debug\CSGOAC Client.vshost.exe
+
+9756            CSGOAC Server.vshost.exe       C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Server\bin\Debug\CSGOAC Server.vshost.exe
+
+15828           msvsmon.exe                    D:\VS\Common7\IDE\Remote Debugger\x64\msvsmon.exe 
+
+8988            ScriptedSandbox64.exe          D:\VS\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe

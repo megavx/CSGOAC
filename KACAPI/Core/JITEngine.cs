@@ -97,39 +97,41 @@ namespace KACAPI.Core
 
         public static TClass GenerateClass<TClass>(IntPtr ptr) where TClass : class
         {
-            if (ptr == IntPtr.Zero)
-            {
-                return null;
-                //throw new JITEngineException("GenerateClass called with NULL ptr");
-            }
+      
+                if (ptr == IntPtr.Zero)
+                {
+                    return null;
+                    //throw new JITEngineException("GenerateClass called with NULL ptr");
+                }
 
-            IntPtr vtable_ptr = Marshal.ReadIntPtr(ptr);
+                IntPtr vtable_ptr = Marshal.ReadIntPtr(ptr);
 
-            Type targetInterface = typeof(TClass);
+                Type targetInterface = typeof(TClass);
 
-            TypeBuilder builder = moduleBuilder.DefineType(targetInterface.Name + "_" + (IntPtr.Size * 8).ToString(),
-                                                    TypeAttributes.Class, null, new Type[] { targetInterface });
-            builder.AddInterfaceImplementation(targetInterface);
+                TypeBuilder builder = moduleBuilder.DefineType(targetInterface.Name + "_" + (IntPtr.Size * 8).ToString(),
+                                                        TypeAttributes.Class, null, new Type[] { targetInterface });
+                builder.AddInterfaceImplementation(targetInterface);
 
-            FieldBuilder fbuilder = builder.DefineField("ObjectAddress", typeof(IntPtr), FieldAttributes.Public);
+                FieldBuilder fbuilder = builder.DefineField("ObjectAddress", typeof(IntPtr), FieldAttributes.Public);
 
-            ClassJITInfo classInfo = new ClassJITInfo(targetInterface);
+                ClassJITInfo classInfo = new ClassJITInfo(targetInterface);
 
-            for (int i = 0; i < classInfo.Methods.Count; i++)
-            {
-                IntPtr vtableMethod = Marshal.ReadIntPtr(vtable_ptr, IntPtr.Size * classInfo.Methods[i].VTableSlot);
-                MethodJITInfo methodInfo = classInfo.Methods[i];
+                for (int i = 0; i < classInfo.Methods.Count; i++)
+                {
+                    IntPtr vtableMethod = Marshal.ReadIntPtr(vtable_ptr, IntPtr.Size * classInfo.Methods[i].VTableSlot);
+                    MethodJITInfo methodInfo = classInfo.Methods[i];
 
-                EmitClassMethod(methodInfo, ptr, vtableMethod, builder, fbuilder);
-            }
+                    EmitClassMethod(methodInfo, ptr, vtableMethod, builder, fbuilder);
+                }
 
-            Type implClass = builder.CreateType();
-            Object instClass = Activator.CreateInstance(implClass);
+                Type implClass = builder.CreateType();
+                Object instClass = Activator.CreateInstance(implClass);
 
-            FieldInfo addressField = implClass.GetField("ObjectAddress", BindingFlags.Public | BindingFlags.Instance);
-            addressField.SetValue(instClass, ptr);
+                FieldInfo addressField = implClass.GetField("ObjectAddress", BindingFlags.Public | BindingFlags.Instance);
+                addressField.SetValue(instClass, ptr);
 
-            return (TClass)instClass;
+                return (TClass)instClass;
+
         }
 
         private class MethodState

@@ -1,0 +1,13 @@
+﻿
+public enum NetworkHEADER
+{
+    HANDSHAKE = 0,
+    DOCONNECTION = 1,
+    CONNECTION = 2,
+    DISCONNECT = 3,
+    DENIED = 4,
+    PLISTGET = 5,
+    POLISTGET = 6,
+    PLISTGETRESPONSE = 7,
+    POLISTGETRESPONSE = 8,
+}

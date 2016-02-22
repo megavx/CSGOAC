@@ -1,8 +1,9 @@
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\bin\x86\Debug\CSGOAC Client.exe
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\bin\x86\Debug\CSGOAC Client.pdb
-C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC Client.csprojResolveAssemblyReference.cache
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC_Client.Properties.Resources.resources
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC Client.csproj.GenerateResource.Cache
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC Client.exe
 C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC Client.pdb
-C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC_Client.Form1.resources
+C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC_Client.MainForm.resources
+C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\bin\x86\Debug\KACAPI.dll
+C:\Users\KONA\Documents\GitHub\CSGOAC\CSGOAC Client\obj\x86\Debug\CSGOAC Client.csprojResolveAssemblyReference.cache

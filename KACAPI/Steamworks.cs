@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using Microsoft.Win32;
-using System.Text;
 using System.Runtime.InteropServices;
 using KACAPI.Core;
 
